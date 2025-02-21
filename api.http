@@ -5,3 +5,11 @@ Content-Type: application/json
   "name": "John Doe",
   "email": "email@example.com"
 }
+
+###
+
+GET http://localhost:3333/invites/m_augusto
+
+###
+
+GET http://localhost:3333/subscribers/m_augusto/ranking/clicks
